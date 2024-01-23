@@ -1,0 +1,7 @@
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\bin\Debug\23.01.2023.exe.config
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\bin\Debug\23.01.2023.exe
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\bin\Debug\23.01.2023.pdb
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\obj\Debug\23.01.2023.csproj.AssemblyReference.cache
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\obj\Debug\23.01.2023.csproj.CoreCompileInputs.cache
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\obj\Debug\23.01.2023.exe
+C:\Users\vovak\source\repos\23.01.2023\23.01.2023\obj\Debug\23.01.2023.pdb
