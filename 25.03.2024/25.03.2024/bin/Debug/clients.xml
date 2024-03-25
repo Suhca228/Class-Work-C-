@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <FullName>Vova</FullName>
+    <Age>14</Age>
+    <PhoneNumber>228008</PhoneNumber>
+    <Id>1</Id>
+  </Client>
+  <Client>
+    <FullName>Ivan Ivanovich</FullName>
+    <Age>20</Age>
+    <PhoneNumber>123453</PhoneNumber>
+    <Id>1</Id>
+  </Client>
+</ArrayOfClient>
