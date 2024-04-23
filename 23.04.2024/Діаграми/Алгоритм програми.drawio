@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-04-25T06:00:00Z" agent="5.0 (Windows)" etag="vXfxEdjr8kRTV5bo9e0G" version="13.5.3" type="google">
+  <diagram name="Diagram" id="RS3onObMuS2Oxl2aAj5P">
+    <mxGraphModel dx="1280" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Create Character" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Delete Character" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Save Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Load Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Exit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="endArrow=block;endFill=0;html=1;" edge="1" source="2" target="3" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="endArrow=block;endFill=0;html=1;" edge="1" source="3" target="4" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="endArrow=block;endFill=0;html=1;" edge="1" source="4" target="5" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="endArrow=block;endFill=0;html=1;" edge="1" source="5" target="6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="endArrow=block;endFill=0;html=1;" edge="1" source="6" target="7" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
