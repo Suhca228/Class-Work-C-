@@ -1,0 +1,7 @@
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\obj\Debug\23.04.2024.02.csproj.AssemblyReference.cache
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\obj\Debug\23.04.2024.02.csproj.CoreCompileInputs.cache
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\bin\Debug\23.04.2024.02.exe.config
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\bin\Debug\23.04.2024.02.exe
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\bin\Debug\23.04.2024.02.pdb
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\obj\Debug\23.04.2024.02.exe
+C:\Users\vovak\source\repos\23.04.2024.02\23.04.2024.02\obj\Debug\23.04.2024.02.pdb

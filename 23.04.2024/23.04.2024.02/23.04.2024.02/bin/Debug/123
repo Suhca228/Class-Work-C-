@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Characters>
+    <Character>
+      <Name>12</Name>
+      <Level>123</Level>
+      <Health>123</Health>
+      <Strength>123</Strength>
+      <Agility>123</Agility>
+      <Intelligence>123</Intelligence>
+      <Inventory />
+    </Character>
+  </Characters>
+  <Items />
+</Game>
