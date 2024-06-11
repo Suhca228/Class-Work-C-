@@ -1,0 +1,7 @@
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\bin\Debug\23.05.2024.1.exe.config
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\bin\Debug\23.05.2024.1.exe
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\bin\Debug\23.05.2024.1.pdb
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\obj\Debug\23.05.2024.1.csproj.AssemblyReference.cache
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\obj\Debug\23.05.2024.1.csproj.CoreCompileInputs.cache
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\obj\Debug\23.05.2024.1.exe
+C:\Users\Vavan\source\repos\23.05.2024.1\23.05.2024.1\obj\Debug\23.05.2024.1.pdb
